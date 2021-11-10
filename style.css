@@ -1,0 +1,50 @@
+body{
+    background-color: #e6ffe6;
+  }
+  header{
+    height: 150px;
+    background-image: url("./img/fundo-header.jpg");
+  }
+  h1{
+    text-align: center;
+    color: #336600;
+    text-shadow: 10px 5px 1px white;
+  }
+  section{
+    border:3px dashed #003300;
+  }
+  h3{
+    color: olive;
+    text-align: center;
+    text-decoration: underline;
+  }
+  p{
+    text-align: center;
+  }
+  .brocolis-p{
+    color: #66ff33;
+  }
+  .arvore-p{
+    color:yellowgreen;
+  }
+  .verde-p{
+    color: green;
+  }
+  .image{
+    border-radius:20px;
+    height: 300px;
+    box-shadow: 8px 8px 5px black;
+  }
+  .lista{
+    background-image: url("./img/fundo-2.jpg");
+  }
+  ul{
+    list-style: none;
+  }
+  li{
+    color: #00b359;
+    text-align: center;
+  }
+  .li-especial{
+    color: #00cc00;
+  }
